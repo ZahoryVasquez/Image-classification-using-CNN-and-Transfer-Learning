@@ -90,6 +90,8 @@ cd Image-classification-using-CNN-and-Transfer-Learning
 pip install -r requirements.txt
 
 3. Run the main notebook: 
-jupyter notebook "ProjectCifar.ipynb"
+jupyter notebook "ProjectCifar-VF.ipynb"
+
+
 
 
